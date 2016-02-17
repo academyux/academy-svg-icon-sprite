@@ -11,9 +11,9 @@ The svg should always be placed inside of a parent element with the class `.icon
 ```
 
 Icons:
--add-circle
--caret-left
--caret-right
--invodo-360
--subtract-circle
--times-circle
+- add-circle
+- caret-left
+- caret-right
+- invodo-360
+- subtract-circle
+- times-circle
