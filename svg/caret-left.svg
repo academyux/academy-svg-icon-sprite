@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="24px" viewBox="0 0 14 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>caret-left</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M14,21.9966599 L14,2.00334014 C14,0.22212559 11.8457162,-0.669909942 10.5857864,0.589598947 L0.585786438,10.5862588 C-0.195262146,11.3670465 -0.195262146,12.6329535 0.585786438,13.4137412 L10.5857864,23.4104011 C11.8457162,24.6699099 14,23.7778744 14,21.9966599 L14,21.9966599 Z" id="caret-left" fill="#000000" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>
