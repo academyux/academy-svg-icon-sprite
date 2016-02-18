@@ -10,6 +10,8 @@ The svg should always be placed inside of a parent element with the class `.icon
 </div>
 ```
 
+[See all the icons on Codepen](http://s.codepen.io/academyux/debug/1abff3ecd7101a9fde9e8db6828bce11)
+
 Icons:
 - add-circle
 - caret-down
