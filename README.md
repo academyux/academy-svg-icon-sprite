@@ -1,6 +1,6 @@
 # Academy SVG Icon Sprite
 
-The svg should always be placed inside of a parent element with the class `.icon`:
+The svg should always have the class `.icon` and be placed inside of a parent element. Height and width should be applied to the parent element, not the SVG itself.
 ```
 <div class="btn">
 	<svg class="icon">
@@ -8,6 +8,15 @@ The svg should always be placed inside of a parent element with the class `.icon
 		//href should reference the ID of whatever icon you need to display
 	</svg>
 </div>
+```
+
+The `.icon` class makes the SVG a block level element and gives it a width and height of 100%.
+```
+.icon {
+	display: block;
+	height: 100%;
+	width: 100%;
+}
 ```
 
 [See all the icons on Codepen](http://s.codepen.io/academyux/debug/1abff3ecd7101a9fde9e8db6828bce11)
