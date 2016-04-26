@@ -27,6 +27,7 @@ Icons:
 - caret-left
 - caret-right
 - caret-up
+- chat
 - check
 - check-circle
 - check
