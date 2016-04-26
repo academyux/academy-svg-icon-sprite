@@ -27,8 +27,8 @@ Icons:
 - caret-left
 - caret-right
 - caret-up
+- cart
 - chat
-- check
 - check-circle
 - check
 - chevron-down
@@ -42,6 +42,7 @@ Icons:
 - info-circle
 - instagram
 - invodo-360
+- loading dots
 - lock
 - logo
 - map-pin
@@ -53,6 +54,7 @@ Icons:
 - play-circle
 - plus-circle
 - plus
+- refresh
 - search
 - times-circle
 - times
