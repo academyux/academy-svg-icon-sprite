@@ -54,6 +54,7 @@ Icons:
 - play-circle
 - plus-circle
 - plus
+- question
 - refresh
 - search
 - times-circle
